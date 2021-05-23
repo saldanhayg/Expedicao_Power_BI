@@ -1,0 +1,13 @@
+Vendedor;Foto Perfil
+Joel Carneiro;https://uploaddeimagens.com.br/images/003/186/553/full/Joel.png?1617854787
+Rodolfo Vilela;https://uploaddeimagens.com.br/images/003/186/550/full/Rodolfo.png?1617854709
+Carla Coldibelli;https://uploaddeimagens.com.br/images/003/186/554/full/Carla.png?1617854955
+Leonardo Alves;https://uploaddeimagens.com.br/images/003/186/566/full/Leonardo.png?1617855549
+Andreia Dallo;https://uploaddeimagens.com.br/images/003/186/555/full/Andreia.png?1617855041
+Maristela Barros;https://uploaddeimagens.com.br/images/003/186/568/full/Maristela.png?1617855621
+Bruno Barros;https://uploaddeimagens.com.br/images/003/186/557/full/Bruno.png?1617855122
+Thiago Bertolotti;https://uploaddeimagens.com.br/images/003/186/558/full/Thiago.png?1617855183
+Marcela Silva;https://uploaddeimagens.com.br/images/003/186/559/full/Marcela.png?1617855235
+Diana Carvalho;https://uploaddeimagens.com.br/images/003/186/560/full/Diana.png?1617855290
+Beatriz Santos;https://uploaddeimagens.com.br/images/003/186/562/full/Beatriz.png?1617855347
+Leticia Aurelio;https://uploaddeimagens.com.br/images/003/186/563/full/Leticia.png?1617855396
